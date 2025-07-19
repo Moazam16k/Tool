@@ -1,0 +1,67 @@
+[
+  {
+    "task_id": 4,
+    "task_sub_id": 8508974,
+    "app_id": 15,
+    "name": "ws频道",
+    "task_type": 10,
+    "config": {
+      "send_timeout": 0,
+      "single_interval": [
+        1,
+        2
+      ],
+      "continuous_fail_stop": 0
+    },
+    "continuous_fail_stop": 0,
+    "times_stop_begin": 0,
+    "has_paid": 0,
+    "task_data": [
+      {
+        "account": "+923008106868",
+        "account_id": 84765839,
+        "link": "https://whatsapp.com/channel/0029Vb6gy5J1SWt8GqvvyU2d",
+        "text": "https://whatsapp.com/channel/0029Vb6gy5J1SWt8GqvvyU2d",
+        "detail_id": 85401619
+      },
+      {
+        "account": "+923154960485",
+        "account_id": 84765840,
+        "link": "https://whatsapp.com/channel/0029Vb6gy5J1SWt8GqvvyU2d",
+        "text": "https://whatsapp.com/channel/0029Vb6gy5J1SWt8GqvvyU2d",
+        "detail_id": 85401620
+      },
+      {
+        "account": "+923468131750",
+        "account_id": 84765841,
+        "link": "https://whatsapp.com/channel/0029Vb6gy5J1SWt8GqvvyU2d",
+        "text": "https://whatsapp.com/channel/0029Vb6gy5J1SWt8GqvvyU2d",
+        "detail_id": 85401621
+      },
+      {
+        "account": "+923081989486",
+        "account_id": 84765842,
+        "link": "https://whatsapp.com/channel/0029Vb6gy5J1SWt8GqvvyU2d",
+        "text": "https://whatsapp.com/channel/0029Vb6gy5J1SWt8GqvvyU2d",
+        "detail_id": 85401622
+      },
+      {
+        "account": "+923135535546",
+        "account_id": 84765843,
+        "link": "https://whatsapp.com/channel/0029Vb6gy5J1SWt8GqvvyU2d",
+        "text": "https://whatsapp.com/channel/0029Vb6gy5J1SWt8GqvvyU2d",
+        "detail_id": 85401623
+      }
+    ],
+    "task_length": 5,
+    "version_code": "70",
+    "js_build_id": "395",
+    "has_verify": 0,
+    "create_time": 1751789669,
+    "today_max_task_num": 500,
+    "task_end_time": 1751827800,
+    "task_remind_risk": 1,
+    "pkgName": "com.whatsapp",
+    "instance": "./WhatsApp.js"
+  }
+]
